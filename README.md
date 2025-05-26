@@ -106,7 +106,7 @@ In this lab, your goal is to implement a production-ready OIDC Provider with the
 1. **OIDC Sequence Diagram** (SVG)
 
    ```markdown
-   ![OIDC Sequence Diagram](docs/diagrams/oidc-sequence.svg)
+   ![OIDC Sequence Diagram]()
    ```
 
 2. **System Architecture Diagram** (SVG)
