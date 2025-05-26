@@ -553,6 +553,20 @@ Below is a high-level overview of the data and control flow:
 
 Each arrow represents an HTTP interaction secured via TLS.
 
+#### 📈 Diagrams
+
+1. **OIDC Sequence Diagram** (SVG)
+
+   ```markdown
+   ![OIDC Sequence Diagram](docs/diagrams/oidc-sequence.svg)
+   ```
+
+2. **System Architecture Diagram** (SVG)
+
+   ```markdown
+   ![Architecture Diagram](docs/diagrams/architecture.svg)
+   ```
+
 ---
 
 ## 🎉 5. Conclusion
