@@ -101,6 +101,21 @@ In this lab, your goal is to implement a production-ready OIDC Provider with the
 
    * **In-memory** (`store/memory.py`) for quick prototyping.
    * **Redis** (`store/redis_store.py`) for production-scale and persistence.
+#### 📈 Diagrams
+
+1. **OIDC Sequence Diagram** (SVG)
+
+   ```markdown
+   ![OIDC Sequence Diagram](docs/diagrams/oidc-sequence.svg)
+   ```
+
+2. **System Architecture Diagram** (SVG)
+
+   ```markdown
+   ![Architecture Diagram](docs/diagrams/architecture.svg)
+   ```
+
+---
 
 **Directory Structure Overview:**
 
